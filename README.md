@@ -22,11 +22,11 @@ The first task involved identifying missing values in the dataset.
 
 ### 2. Exploring Numerical Variables
 
-In this task, i  explored numerical variables in the dataset. This includes calculating basic statistics, visualizing distributions, and identifying potential outliers.
+In this task, i  explored numerical variables in the dataset. This included calculating basic statistics.
 
 ### 3. Exploring Categorical Variables
 
-Categorical variables play a significant role in understanding the characteristics of the data. We will analyze categorical features by generating frequency counts, bar plots, and exploring their relationships with other variables.
+Categorical variables play a significant role in understanding the characteristics of the data. I analyzed categorical features utilizing bar plots and exploring their relationships with other variables.
 
 ### 4. Finding Relationships between Features
 
