@@ -30,6 +30,6 @@ Categorical variables play a significant role in understanding the characteristi
 
 ### 4. Finding Relationships between Features
 
-This task focuses on discovering relationships and correlations between different features in the dataset. We will use various visualization techniques, such as scatter plots and heatmaps, to identify patterns and dependencies.
+This task focuses on discovering relationships between  different features in the dataset. I  used various visualization techniques to identify patterns.
 
 
